@@ -1,0 +1,2 @@
+# pythondmemo
+my python 
